@@ -196,6 +196,8 @@ set(DIALOG_SDK_SOURCES
     ${DIALOG_SDK_PATH}/sdk/platform/driver/dma/dma.c
     ${DIALOG_SDK_PATH}/sdk/platform/driver/i2c/i2c.c
     ${DIALOG_SDK_PATH}/sdk/platform/driver/timer/timer0.c
+    ${DIALOG_SDK_PATH}/sdk/platform/driver/timer/timer1.c
+    ${DIALOG_SDK_PATH}/sdk/platform/driver/timer/timer2.c
     ${DIALOG_SDK_PATH}/sdk/ble_stack/rwble/rwble.c
     ${DIALOG_SDK_PATH}/sdk/platform/core_modules/rwip/src/rwip.c
     ${DIALOG_SDK_PATH}/sdk/platform/core_modules/rf/src/ble_arp.c
